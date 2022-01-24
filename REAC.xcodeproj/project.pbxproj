@@ -431,7 +431,6 @@
 					"-fno-schedule-insns2",
 					"-static",
 					"-findirect-virtual-calls",
-					"-mlong-branch",
 				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = "";
